@@ -15,7 +15,18 @@
       "maintainer": true
     }
   ],
-  "version": "2.2.4",
+  "version": "2.2.5",
   "frameworks": "arduino",
-  "platforms": "espressif"
+  "platforms": "espressif",
+  "dependencies":
+  [
+    {
+      "name": "ESP Async WebServer",
+      "version": "1.2.3"
+    },
+    {
+      "name": "ArduinoJson",
+      "version": "6.15.0"
+    }
+  ]
 }

@@ -3,16 +3,20 @@
 <hr/>
 
 <p align="center">
-<!-- <a href="https://opencollective.com/espdash" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/espdash/all/badge.svg?label=financial+contributors" /></a> <img src="https://img.shields.io/travis/com/ayushsharma82/ESP-DASH.svg?style=for-the-badge" />
-&nbsp; -->
 <img src="https://img.shields.io/github/last-commit/ayushsharma82/ESP-DASH.svg?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/travis/com/ayushsharma82/ESP-DASH/master?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/license/ayushsharma82/ESP-DASH.svg?style=for-the-badge" />
 &nbsp;
-<a href="https://opencollective.com/espdash/contribute" target="_blank"><img src="https://img.shields.io/opencollective/all/espdash?style=for-the-badge&logo=open-collective" /></a>
+<a href="https://www.buymeacoffee.com/6QGVpSj" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%245-orange?style=for-the-badge&logo=buy-me-a-coffee" /></a>
 </p>
 
 <hr/>
+
+<br/>
+
+<b>Note:</b> We are actively working on the `dash-next` branch for our V3 release, please implement your feature / pull requests there. Currently, the master branch holds the V2 legacy code.
 
 <br/>
 
@@ -45,18 +49,18 @@
 <p>
   <h5>For ESP8266:</h5>
   <ul style="list-style-position: inside;">
-      <li>ESP8266 Arduino Core - <b>v2.5.0</b></li>
+      <li>ESP8266 Arduino Core - <b>(latest)</b></li>
       <li>ESPAsyncTCP - <b>v1.2.0</b></li>
-  	  <li>ESPAsyncWebServer - <b>v1.2.0</b></li>
-      <li>ArduinoJson - <b>v6.8.0</b></li>
+  	  <li>ESPAsyncWebServer - <b>v1.2.3</b></li>
+      <li>ArduinoJson - <b>v6.15.2</b></li>
   </ul>
   
   <h5>For ESP32:</h5>
   <ul style="list-style-position: inside;">
-      <li>ESP32 Arduino Core - <b>v1.0.1</b></li>
+      <li>ESP32 Arduino Core - <b>(latest)</b></li>
       <li>AsyncTCP - <b>v1.0.3</b></li>
-  	  <li>ESPAsyncWebServer - <b>v1.2.0</b></li>
-      <li>ArduinoJson - <b>v6.8.0</b></li>
+  	  <li>ESPAsyncWebServer - <b>v1.2.3</b></li>
+      <li>ArduinoJson - <b>v6.15.2</b></li>
   </ul>
 </p>
 
